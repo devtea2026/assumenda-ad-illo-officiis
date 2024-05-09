@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/assumenda-ad-illo-officiis",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -152,5 +152,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/assumenda-ad-illo-officiis/issues"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.2"
 }
